@@ -1,0 +1,11 @@
+[ 
+{ 
+"Description":"ubuntu os", 
+"Format":"ova", 
+"UserBucket": 
+{ 
+"S3Bucket": "migrationprojectttttttt",
+"S3Key": "test1.ova"
+}     
+} 
+] 
